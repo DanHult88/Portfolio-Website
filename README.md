@@ -10,7 +10,7 @@ The goal of this site is not just to show code, but to clearly communicate how I
 
 - **Type:** Personal portfolio website  
 - **Purpose:** Showcase projects, skills and experience  
-- **Status:** Live and actively maintained  
+- **Status:** Live and actively maintained.
 
 ---
 

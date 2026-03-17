@@ -1,65 +1,52 @@
-# Personal Portfolio Website
+Personal Portfolio Website
 
-My personal developer portfolio, built to present selected projects, real client work and my focus as a junior fullstack developer.
+This is my personal developer portfolio, where I showcase projects I’ve worked on, including real client work, and highlight what I’m focusing on as a junior fullstack developer.
 
-The goal of this site is not just to show code, but to clearly communicate how I approach real-world web development and problem solving.
+I didn’t just want a place to dump code—I wanted something that clearly shows how I think, how I build, and how I approach real-world problems.
 
----
+Overview
 
-## Overview
+Type: Personal portfolio
 
-- **Type:** Personal portfolio website  
-- **Purpose:** Showcase projects, skills and experience  
-- **Status:** Live and actively maintained.
+Purpose: Show my work, skills, and growth as a developer
 
----
+Status: Live and regularly updated
 
-## What this site includes
+What’s in it
 
-- Selected projects with links and descriptions
-- Real client work (LS Empowerment)
-- Clear focus on frontend and fullstack development
-- Simple and accessible layout
-- Responsive design for desktop and mobile
+A selection of projects with descriptions and links
 
----
+Real client work (LS Empowerment)
 
-## My Role
+A focus on frontend and fullstack development
 
-**Designer & Developer**
+A clean, simple layout that’s easy to navigate
 
-I designed and built the site myself, focusing on:
-- Clear structure and readability
-- Presenting projects in a professional way
-- Keeping the site simple, fast and easy to navigate
-- Making it easy for recruiters or collaborators to understand my work
+Fully responsive (works on both desktop and mobile)
 
----
+My Role
 
-## Tech Stack
+Designer & Developer
 
-- React  
-- JavaScript (ES6+)  
-- CSS  
-- Vercel (deployment)
+I built and designed everything myself. My main focus was to:
 
----
+Keep things clean and easy to read
 
-## Key Focus Areas
+Present projects in a clear, professional way
 
-- Clean and maintainable component structure
-- Responsive layout across devices
-- Performance and accessibility basics
-- Easy future updates as projects evolve
+Make the site fast and simple to use
 
----
+Help recruiters or collaborators quickly understand what I can do
 
-## Live Site
+Tech Stack
+React
+JavaScript (ES6+)
+CSS
+Vercel (for deployment)
 
-👉 **[Visit the portfolio](https://portfolio2025-75hu.vercel.app/)**
+If you would like to chekc it out follow the link below.
 
----
 
-## Notes
+Live Site: https://portfolio2025-75hu.vercel.app/
 
-This portfolio is continuously updated as I build new projects and gain more real-world experience.
+

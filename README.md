@@ -1,4 +1,4 @@
-Personal Portfolio Website.
+Personal Portfolio Website
 
 This is my personal developer portfolio, where I showcase projects I’ve worked on, including real client work, and highlight what I’m focusing on as a junior fullstack developer.
 
